@@ -13,7 +13,7 @@ const d=b.concat(c);
 function display(x){
     console.log(x);
 }
-d.forEach(display)
+d.forEach( display)
 
 
 
